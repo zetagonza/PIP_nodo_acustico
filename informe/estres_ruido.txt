@@ -1,0 +1,1 @@
+Sin registros con ruido (--ruido) y sin ruido a la vez: prueba de estrés omitida.
